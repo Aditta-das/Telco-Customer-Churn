@@ -1,4 +1,4 @@
-# Telco-Customer-Churn
+# Telco-Customer-Churn-Using-ANN
 
 # Context
 
